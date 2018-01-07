@@ -15,4 +15,8 @@ This distribution contains the following CLI utilities:
 
 =head1 SEE ALSO
 
+L<App::CryptoCurrencyUtils>
+
+L<https://coinmarketcap.com>
+
 =cut
